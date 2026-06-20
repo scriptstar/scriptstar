@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narendra Mandadapu</h1>
 <h3 align="center">A Passionate Senior Full Stack Data Engineer From United Kingdom</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-			src="https://github-profile-trophy.vercel.app/?username=scriptstar" alt="scriptstar" /></a> </p>
-
 <h3 align="left">Technologies:</h3>
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
