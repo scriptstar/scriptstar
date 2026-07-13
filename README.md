@@ -36,4 +36,5 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 <div>
+<br/>
 <div align="center"><img width="332" height="504.14" alt="scriptstar-gitfut" src="https://github.com/user-attachments/assets/b7e04bd2-9900-453f-ae89-3f8febef9366" /></div>
