@@ -37,4 +37,9 @@
 </div>
 <div>
 <br/>
-<div align="center"><img width="332" height="504.14" alt="scriptstar-gitfut" src="https://github.com/user-attachments/assets/b7e04bd2-9900-453f-ae89-3f8febef9366" /></div>
+
+<p align="center">
+  <a href="https://gitfut.com/scriptstar">
+    <img src="https://gitfut.com/scriptstar.png" alt="My GitFut card" width="332" height="504.14">
+  </a>
+</p>
