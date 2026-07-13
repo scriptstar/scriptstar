@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://gitfut.com/scriptstar">
+  <a href="https://gitfut.com/scriptstar?country=gb">
     <img src="https://gitfut.com/scriptstar.png" alt="My GitFut card" width="332" height="504.14">
   </a>
 </p>
