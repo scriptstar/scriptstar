@@ -34,8 +34,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-
-<img width="540" height="820" alt="scriptstar-gitfut" src="https://github.com/user-attachments/assets/b7e04bd2-9900-453f-ae89-3f8febef9366" />
-
 </div>
 <div>
+<div align="center"><img width="332" height="504.14" alt="scriptstar-gitfut" src="https://github.com/user-attachments/assets/b7e04bd2-9900-453f-ae89-3f8febef9366" /></div>
