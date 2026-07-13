@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Mandadapu</h1>
 <h3 align="center">A Passionate Senior Full Stack Data Engineer From United Kingdom</h3>
-
 <h3 align="left">Technologies:</h3>
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -35,6 +34,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-</div>
 
+[![My GitFut card](https://gitfut.com/scriptstar.png)](https://gitfut.com/scriptstar)
+</div>
 <div>
